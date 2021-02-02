@@ -1,0 +1,16 @@
+@include media-sm {
+	.front {
+		&_card {
+			#front {
+				.card_text {
+					#name {
+						font-size: 20px;
+					}
+					#title {
+						font-size: 11px;
+					}
+				}
+			}
+		}
+	}
+}
