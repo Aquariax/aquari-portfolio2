@@ -1,10 +1,9 @@
-import FrontCover from './components/layout/FrontCover';
+import Placeholder from './components/layout/Placeholder';
 import './components/layout/styles/compiled/main.css';
 function App() {
 	return (
 		<div className='app'>
-			<h1>Developing something awesome</h1>
-			<FrontCover />
+			<Placeholder />
 		</div>
 	);
 }

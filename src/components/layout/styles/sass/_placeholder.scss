@@ -1,0 +1,19 @@
+.placeholder {
+	background: url('../../../images/pexels-ryutaro-tsukata-5472598.jpg') center
+		center;
+	background-size: cover;
+	height: 100vh;
+	&_text {
+		color: rgb(0, 38, 255);
+		text-shadow: 2px 2px white;
+		text-align: center;
+		padding: 2%;
+		h1 {
+			font-size: 90px;
+			margin: 10px;
+		}
+		p {
+			font-size: 30px;
+		}
+	}
+}
