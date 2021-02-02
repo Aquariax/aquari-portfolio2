@@ -6,7 +6,7 @@ function Placeholder() {
 		<div className='placeholder'>
 			<div className='placeholder_text'>
 				<h1>Developing something awesome</h1>
-				<p>Soon to be site of new portfolio</p>
+				<p>Soon to be site of new portfolio!</p>
 			</div>
 
 			<FrontCover />
