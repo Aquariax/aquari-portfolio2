@@ -1,3 +1,5 @@
+$content-silver: #e5e8e8;
+$silver-shadow: #566573;
 @mixin media-sm {
 	@media screen and (max-width: 676px) {
 		@content;
